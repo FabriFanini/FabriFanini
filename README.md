@@ -43,5 +43,11 @@ Exploring the world of technology to build innovative solutions.
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
+## 📫 Contact Me
+
+- 🌐 **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/fabriziofanini)  
+- 📧 **Email:** [your-email@example.com](mailto:fabrifanini@gmail.com)  
+
+
 
 
