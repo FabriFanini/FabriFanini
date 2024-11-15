@@ -45,8 +45,8 @@ Exploring the world of technology to build innovative solutions.
 
 ## 📫 Contact Me
 
-- 🌐 **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/fabriziofanini)  
-- 📧 **Email:** [your-email@example.com](mailto:fabrifanini@gmail.com)  
+- 🌐 **LinkedIn:** (www.linkedin.com/in/fabriziofanini)  
+- 📧 **Email:** (mailto:fabrifanini@gmail.com)  
 
 
 
