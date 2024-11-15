@@ -2,6 +2,8 @@
 
 Blockchain Developer & Business Administrator  
 Exploring the world of technology to build innovative solutions.
+![Banner]([https://github.com/tu-usuario/tu-repo/raw/main/banner.png](https://raw.githubusercontent.com/FabriFanini/FabriFanini/refs/heads/main/DALL%C2%B7E%202024-11-15%2013.02.14%20-%20A%20minimalist%20and%20fun%20rectangular%20banner%20featuring%20the%20text%20'Blockchain%20Developer%20and%20Business%20Administrator'%20in%20bold%2C%20playful%20typography%20at%20the%20center.webp))
+
 ## About Me 👨🏻‍💻
 
 I hold a **Bachelor's degree in Business Administration** with a strong passion for programming and technology. Currently, I am deeply engaged in the exciting world of **blockchain development**, pursuing a master's degree at [ConquerBlocks](https://conquerblocks.com) under the guidance of top-tier professionals.
