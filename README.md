@@ -4,7 +4,7 @@ Blockchain Developer & Business Administrator
 Exploring the world of technology to build innovative solutions.
 ## About Me 👨🏻‍💻
 
-- 🌱 Currently pursuing a **Master's in Blockchain Development**, diving into technologies such as:
+- 🌱 Currently pursuing a **Master's in Blockchain Development** at [ConquerBlocks](https://conquerblocks.com), diving into technologies such as:
   - **Linux**
   - **SQL**
   - **Git and Github**  
