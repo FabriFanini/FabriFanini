@@ -4,22 +4,16 @@ Blockchain Developer & Business Administrator
 Exploring the world of technology to build innovative solutions.
 ## About Me 👨🏻‍💻
 
-- 🌱 Currently pursuing a **Master's in Blockchain Development** at [ConquerBlocks](https://conquerblocks.com), diving into technologies such as:
-  - **Linux**
-  - **SQL**
-  - **Git and Github**  
-  - **Ethereum Virtual Machine (EVM)**  
-  - **Solidity**  
-  - **Ether.js**  
-  - **Rust**  
-  - **Go**  
-  - And more advanced tools and concepts within the blockchain ecosystem.
-- 🔗 Knowledgeable in programming languages and web development, including:  
-  - **Python**  
-  - **HTML**  
-  - **CSS**  
-  - **JavaScript** 
-- 🔗 Passionate about building innovative projects that connect technology and business.  
+I hold a **Bachelor's degree in Business Administration** with a strong passion for programming and technology. Currently, I am deeply engaged in the exciting world of **blockchain development**, pursuing a master's degree at [ConquerBlocks](https://conquerblocks.com) under the guidance of top-tier professionals.
+
+Throughout my budding programming career, I have collaborated on various projects, including:
+- A **weather application** developed alongside other programmers.  
+- Joint projects with a **UX designer**, where I was responsible for implementing the **front-end** of her work.  
+- **Personal projects** designed to practice and explore new technologies.
+
+I consider myself a lifelong learner, always striving to stay updated with the latest trends and eager to grow in this vast and dynamic field of programming and blockchain.
+
+- Passionate about building innovative projects that connect technology and business.  
 - 📈 Experienced in administration and developing digital strategies.
 
 ## 🛠️ Technologies & Tools
