@@ -43,10 +43,14 @@ Exploring the world of technology to build innovative solutions.
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
-## 📫 Contact Me
+## Contact Me 📫
 
-- 🌐 **LinkedIn:** (www.linkedin.com/in/fabriziofanini)  
-- 📧 **Email:** (mailto:fabrifanini@gmail.com)  
+If you have questions, suggestions, or just want to chat about web development or blockchain, don't hesitate to get in touch with me through:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](www.linkedin.com/in/fabriziofanini)
+</br>
+[![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:fabrifanini@gmail.com)
+
 
 
 
