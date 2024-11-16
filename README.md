@@ -3,7 +3,7 @@
 ### Blockchain Developer & Business Administrator  
 Exploring the world of technology to build innovative solutions.
 
-![https://github.com/FabriFanini](https://github.com/FabriFanini/FabriFanini/blob/main/banner%20%20que%20diga%20%20blockchain%20developer%20and%20business%20administrator,%20%20titulo%20principal%20FABRI%20CODE,%20en%20el%20fondo%20algunos%20simbolos%20de%20lenguajes%20de%20programacion%20como%20etherium,%20solidity,%20ptyhon,%20js,%20git%20hub,%20bitcoin.%20(1).jpg?raw=true)
+![https://github.com/FabriFanini](https://github.com/FabriFanini/FabriFanini/blob/main/Creame%20un%20banner%20que%20como%20titulo%20principal%20diga%20_FABRI%20CODE_%20y%20que%20en%20otra%20linea%20_Blockchain%20Developer%20and%20Business%20Administrator_.%20Esta%20imagen%20debe%20estar%20relacionada%20con%20el%20mundo%20de%20las%20criptomonedas%20y%20del%20blockchain.%20tambien%20quiero%20que%20co.jpg?raw=true)
 
 ## About Me 👨🏻‍💻
 
