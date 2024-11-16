@@ -19,7 +19,11 @@ I consider myself a lifelong learner, always striving to stay updated with the l
 - Passionate about building innovative projects that connect technology and business.  
 - 📈 Experienced in administration and developing digital strategies.
 
-<picture> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<div align="center">
+  <picture>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
+  </picture>
+</div>
 
 ## 🛠️ Technologies & Tools
 
