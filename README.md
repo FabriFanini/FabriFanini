@@ -22,7 +22,7 @@ I consider myself a lifelong learner, always striving to stay updated with the l
 - Passionate about building innovative projects that connect technology and business.  
 - 📈 Experienced in administration and developing digital strategies.
 
-## 🛠️ Technologies & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technologies & Tools</b>
 
 - **Programming Languages & Web Development:**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
