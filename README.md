@@ -15,7 +15,7 @@ Throughout my budding programming career, I have collaborated on various project
 I consider myself a lifelong learner, always striving to stay updated with the latest trends and eager to grow in this vast and dynamic field of programming and blockchain.
 Passionate about building innovative projects that connect technology and business. Experienced in administration and developing digital strategies.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technologies & Tools</b>  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> I code with</b>  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -28,7 +28,7 @@ Passionate about building innovative projects that connect technology and busine
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
-## Contact Me 📫
+## Contact Me
 
 If you have questions, suggestions, or just want to chat about web development or blockchain, don't hesitate to get in touch with me through:
 
