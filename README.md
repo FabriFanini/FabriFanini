@@ -1,6 +1,6 @@
 # Hi! I'm Fabrizio Fanini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### Blockchain Developer & Business Administrator  
+### Blockchain Developer
 Exploring the world of technology to build innovative solutions.
 
 <div align="center">
