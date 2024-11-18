@@ -3,12 +3,6 @@
 ### Blockchain Developer
 Exploring the world of technology to build innovative solutions.
 
-<div align="right">
-  <picture>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
-  </picture>
-</div>
-
 ## About me
 
 I hold a **Bachelor's degree in Business Administration** with a strong passion for programming and technology. Currently, I am deeply engaged in the exciting world of **blockchain development**, pursuing a master's degree at [ConquerBlocks](https://conquerblocks.com) under the guidance of top-tier professionals.
