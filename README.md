@@ -3,7 +3,7 @@
 ### Blockchain Developer
 Exploring the world of technology to build innovative solutions.
 
-<div align="center">
+<div align="right">
   <picture>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
   </picture>
