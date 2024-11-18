@@ -9,7 +9,7 @@ I hold a **Bachelor's degree in Business Administration** with a strong passion 
 
 Throughout my budding programming career, I have collaborated on various projects, including:
 - A **weather application** developed alongside other programmers.  
-- Joint projects with a **UX designer**, where I was responsible for implementing the **front-end** of her work.  
+- Joint projects with a **UX designer**, where I was responsible for implementing the **front-end** of her work, [Travel Beyond](https://github.com/FabriFanini/travel-beyond).  
 - **Personal projects** designed to practice like [wordy master](https://github.com/FabriFanini/wordy-masters).
 
 I consider myself a lifelong learner, always striving to stay updated with the latest trends and eager to grow in this vast and dynamic field of programming and blockchain.
