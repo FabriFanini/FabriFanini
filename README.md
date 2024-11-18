@@ -9,7 +9,7 @@ Exploring the world of technology to build innovative solutions.
   </picture>
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## About me
 
 I hold a **Bachelor's degree in Business Administration** with a strong passion for programming and technology. Currently, I am deeply engaged in the exciting world of **blockchain development**, pursuing a master's degree at [ConquerBlocks](https://conquerblocks.com) under the guidance of top-tier professionals.
 
