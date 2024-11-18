@@ -38,7 +38,7 @@ Passionate about building innovative projects that connect technology and busine
 
 If you have questions, suggestions, or just want to chat about web development or blockchain, don't hesitate to get in touch with me through:
 
-[![LinkedIn](www.linkedin.com/in/fabriziofanini)
+- [LinkedIn](https://www.linkedin.com/in/fabriziofanini/)
 </br>
 [![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=fabrifanini%40gmail.com&labelColor=black&color=%23EA4335)](mailto:fabrifanini@gmail.com)
 
