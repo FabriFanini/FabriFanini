@@ -8,7 +8,7 @@ Exploring the world of technology to build innovative solutions.
 I hold a **Bachelor's degree in Business Administration** with a strong passion for programming and technology. Currently, I am deeply engaged in the exciting world of **blockchain development**, pursuing a master's degree at [ConquerBlocks](https://conquerblocks.com) under the guidance of top-tier professionals.
 
 Throughout my budding programming career, I have collaborated on various projects, including:
-- A **weather application** developed alongside other programmers.  
+- A **[weather application](https://github.com/FabriFanini/wheater-app)** developed alongside other programmers.  
 - Joint projects with a **UX designer**, where I was responsible for implementing the **front-end** of her work, [Travel Beyond](https://github.com/FabriFanini/travel-beyond).  
 - **Personal projects** designed to practice like [wordy master](https://github.com/FabriFanini/wordy-masters).
 
